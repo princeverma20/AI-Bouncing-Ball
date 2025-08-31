@@ -1,0 +1,15 @@
+certifi==2018.4.16
+curses-util==0.0.6
+cycler==0.10.0
+fuzzywuzzy==0.16.0
+kiwisolver==1.0.1
+matplotlib==2.2.5
+numpy==1.14.5
+Pillow==5.1.0
+pygame==1.9.6
+pyparsing==2.2.0
+python-dateutil==2.7.3
+pytz==2018.5
+scipy==1.1.0
+six==1.11.0
+wincertstore==0.2
